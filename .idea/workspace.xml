@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46ddfe40-239c-49df-b805-10caa266e560" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyStuff.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCard/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCard/Farve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCard/MyCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCard/TestMyCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyDie/MyDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyDie/TestMyDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyGroup/Køn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyGroup/MyGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyGroup/TestMyGroup.java" afterDir="false" />
+    <list default="true" id="46ddfe40-239c-49df-b805-10caa266e560" name="Changes" comment="MyStuff">
+      <change afterPath="$PROJECT_DIR$/src/MyGrades/Karakter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyGrades/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyGrades/TestMyStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyCard/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyCard/DeckOfCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyCard/Farve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyCard/Farve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyDie/MyDie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyDie/MyDie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyGroup/TestMyGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyGroup/TestMyGroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664193613244</updated>
-      <workItem from="1664193615841" duration="19393000" />
+      <workItem from="1664193615841" duration="23970000" />
     </task>
+    <task id="LOCAL-00001" summary="MyStuff">
+      <created>1664442156470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664442156470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MyStuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyStuff" />
   </component>
 </project>

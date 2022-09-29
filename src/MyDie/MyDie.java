@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class MyDie {
 
-    // Atribut
+    // Attribut
     private int værdi;
 
 
@@ -27,7 +27,7 @@ public class MyDie {
 
     }
 
-    // Kontruktor
+    // Konstruktor
     public MyDie (){
         Myroll();
 

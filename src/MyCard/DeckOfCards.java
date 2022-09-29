@@ -6,7 +6,7 @@ public class DeckOfCards {
 
     private ArrayList<MyCard> cards = new ArrayList<>();
 
-    // første statement laves w variable, næste det er condition som loopet tjekker, hvis den er rigtigt kører loppet hvis forkert går den ud..
+    // første statement laves variable, næste er condition som loopet tjekker, hvis den er rigtigt kører loppet hvis forkert går den ud..
     // sidste fortæller at den køre 4 gange
 
 
@@ -15,6 +15,7 @@ public class DeckOfCards {
     }
 
 
+    // loopet kører
     public DeckOfCards (){
         for (int i = 1; i<5; i++){
 

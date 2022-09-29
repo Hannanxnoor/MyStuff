@@ -10,7 +10,7 @@ public enum Farve {
 
     SPAR,
 
-    JOKER
+
 
 
 }
